@@ -1,5 +1,7 @@
 # Events Booking App Database
-PostgreSQL database example
+PostgreSQL database example for a fictional events booking app.
+It would allow users to find events, register for events and view event details.
+Also some users would be able to organize events.
 
 
 # How to use
