@@ -11,3 +11,4 @@ This is a pgAdmin SQL dump so to use this database you need to:
 
 # ERD Diagram
 
+![events_ERD](https://user-images.githubusercontent.com/45260426/148468915-ff7c1d7a-b942-43dd-a756-40a142ec52cc.png)
